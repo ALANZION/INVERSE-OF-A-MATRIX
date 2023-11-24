@@ -22,7 +22,8 @@ print(b)
 
 ```
 ## Output:
-![Alt text](image.png)
+![Screenshot 2023-11-24 190959](https://github.com/ALANZION/INVERSE-OF-A-MATRIX/assets/145743064/be356e0c-4d9f-4aae-86d3-828f21b485d3)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
